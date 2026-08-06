@@ -1,6 +1,6 @@
 # Honeywell AR & Machine Vision App for Electric and Gas Meters
 
-**Case study — code not publicly available due to Honeywell IP restrictions**
+**Case study — code not publicly available due to agreement with Honeywell**
 
 ## Overview
 As part of a 5-person senior design team, I helped build an iOS application with augmented reality and machine vision capabilities for Honeywell. The app detects electric and gas meters in real time and displays an AR UI overlay containing documentation, data sheets, and meter information — directly in the technician's field of view.
