@@ -23,6 +23,7 @@ Work was divided into five functional areas:
 ![AR framework decision matrix comparing Unity, Unreal Engine, Flutter AR, and Vuforia](softwareinfo/ARDecisionMatrix.png)
 
 **Unity Information:**
+
 ![Unity AR Foundation component overview](softwareinfo/UnityComponent.png)
 
 # Tech Stack
