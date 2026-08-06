@@ -33,5 +33,5 @@ Work was divided into five functional areas:
 - Handled Apple/iPad integration — building the app for the device
 - Managed the Unity-to-Xcode pipeline for test runs on hardware
 
-## Demo
-*[Add screen recording or GIF here if approved for sharing — otherwise, screenshots of the UI overlay if permitted]*
+# Demo
+
