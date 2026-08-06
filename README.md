@@ -59,3 +59,5 @@ Work was divided into five functional areas:
   <em>Final AR overlay results: Gas Meter (left) and Electric Meter (right) detection with interactable buttons</em>
 </p>
 
+#### Object Tracking, Meter Differentiation, & AR UI Overlay Video
+[Demo Video of Object Tracking and AR](https://youtube.com/shorts/XTXCFSZLpuU)
