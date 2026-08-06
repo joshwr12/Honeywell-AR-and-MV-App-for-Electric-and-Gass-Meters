@@ -42,4 +42,6 @@ Work was divided into five functional areas:
 
 # Demo
 #### First iteration of Object Tracking using Pokemon card and a cube prefab:
+![1st Object Tracking Test Pic](demoitems/1stObjectTrackingPic.png)
 [1st Object Tracking Test with Pokemon card](https://youtube.com/shorts/WiphalBvLNg)
+
