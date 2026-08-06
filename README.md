@@ -6,9 +6,9 @@
 As part of a 5-person senior design team, I helped build an iOS application with augmented reality and machine vision capabilities for Honeywell. The app detects electric and gas meters in real time and displays an AR UI overlay containing documentation, data sheets, and meter information — directly in the technician's field of view.
 
 # Purpose
-Field service technicians servicing Honeywell meters often rely on manual lookup — cross-referencing model numbers, pulling documentation, and identifying meter types by hand. This is slow and error-prone, especially outdoors or in industrial environments. Our app reduces that overhead: point the iPad at a meter, and the relevant data appears instantly.
+Field service technicians servicing Honeywell meters often rely on manual lookup like cross-referencing model numbers, pulling documentation, and identifying meter types by hand. This is slow and error-prone, especially outdoors or in industrial environments. This app improves their efficiency with just pointing the iPad at a meter, and then relevant data appears instantly.
 
-Impact: Reduces meter identification and service time, cuts documentation-lookup errors, and improves technician onboarding — no need to memorize model-specific details. The app was well-received by Honeywell engineers and is being considered for real-world implementation.
+# Impact: Reduces meter identification and service time, cuts documentation-lookup errors, and improves technician onboarding by not needing to memorize model-specific details. The app was well received by Honeywell engineers and is being considered for real-world implementation.
 
 # Team Approach
 Work was divided into five functional areas:
