@@ -56,6 +56,6 @@ Work was divided into five functional areas:
   <img src="demoitems/FinalElectricOverlay.PNG" alt="Electric meter AR overlay with detection and manual/data doc buttons" width="400">
 </p>
 <p align="center">
-  <em>Final AR overlay results: Gas Meter (left) and Electric Meter (right) detection with manual/data doc access</em>
+  <em>Final AR overlay results: Gas Meter (left) and Electric Meter (right) detection with interactable buttons</em>
 </p>
 
