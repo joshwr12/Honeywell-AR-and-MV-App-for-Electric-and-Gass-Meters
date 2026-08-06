@@ -50,7 +50,7 @@ Work was divided into five functional areas:
 
 [1st Object Tracking Test with Pokemon card](https://youtube.com/shorts/WiphalBvLNg)
 
-#### Final Gas and Electric Meter AR UI Overlays
+#### Final Gas and Electric Meter AR UI Overlays:
 <p align="center">
   <img src="demoitems/FinalGasOverlay.PNG" alt="Gas meter AR overlay with detection and manual/data doc buttons" width="400">
   <img src="demoitems/FinalElectricOverlay.PNG" alt="Electric meter AR overlay with detection and manual/data doc buttons" width="400">
@@ -59,5 +59,5 @@ Work was divided into five functional areas:
   <em>Final AR overlay results: Gas Meter (left) and Electric Meter (right) detection with interactable buttons</em>
 </p>
 
-#### Object Tracking, Meter Differentiation, & AR UI Overlay Video
+#### Object Tracking, Meter Differentiation, & AR UI Overlay Video:
 [Demo Video of Object Tracking and AR](https://youtube.com/shorts/XTXCFSZLpuU)
