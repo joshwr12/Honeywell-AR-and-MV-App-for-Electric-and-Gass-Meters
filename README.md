@@ -1,4 +1,4 @@
-Honeywell AR and MV App for Electric and Gass-Meters
+## Honeywell AR and MV App for Electric and Gass-Meters
 Task:
 As a 5 member team, create an app that has augmented reality and machine vision capabilities. This app will detect and pop up ar ui overlay for Honeywell's gas and electric meters. This ui overlay will include documents, data sheets, and more meter information.
 Purpose:
