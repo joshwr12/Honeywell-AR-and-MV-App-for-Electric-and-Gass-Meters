@@ -18,6 +18,7 @@ Work was divided into five functional areas:
 - AI Helper
 - Integration (combining all components)
 - Testing
+# AR Decision Matrix
 
 # Tech Stack
 | Tool | Purpose |
