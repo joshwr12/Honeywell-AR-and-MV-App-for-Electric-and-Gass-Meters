@@ -41,6 +41,8 @@ Work was divided into five functional areas:
 - Managed the Unity-to-Xcode pipeline for test runs on hardware
 
 # Demo
+#### Flow Chart for the Implementation of Unity 
+![Flow Chart for the Implementation of Unity](softwareinfo/UnityFlowChart.png)
 #### First iteration of Object Tracking using Pokemon card and a cube prefab:
 <p align="left">
   <img src="demoitems/1stObjectTrackingPic.png" alt="1st Object Tracking Test Pic" width="400">
