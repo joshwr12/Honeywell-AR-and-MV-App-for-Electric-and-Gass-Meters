@@ -18,7 +18,9 @@ Work was divided into five functional areas:
 - AI Helper
 - Integration (combining all components)
 - Testing
+
 # AR Decision Matrix
+![AR framework decision matrix comparing Unity, Unreal Engine, Flutter AR, and Vuforia](images/ARDecisionMatrix.png)
 
 # Tech Stack
 | Tool | Purpose |
