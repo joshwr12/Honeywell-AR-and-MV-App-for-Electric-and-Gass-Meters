@@ -41,5 +41,5 @@ Work was divided into five functional areas:
 - Managed the Unity-to-Xcode pipeline for test runs on hardware
 
 # Demo
-First iteration of Object Tracking using Pokemon card and a cube prefab:
-!{1st Object Tracking Test with Pokemon card](
+#### First iteration of Object Tracking using Pokemon card and a cube prefab:
+[1st Object Tracking Test with Pokemon card](https://youtube.com/shorts/WiphalBvLNg)
