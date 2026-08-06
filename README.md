@@ -21,7 +21,7 @@ Work was divided into five functional areas:
 
 # AR Decision Matrix
 ![AR framework decision matrix comparing Unity, Unreal Engine, Flutter AR, and Vuforia](images/ARDecisionMatrix.png)
-Unity Information:
+**Unity Information:**
 <img width="975" height="446" alt="image" src="https://github.com/user-attachments/assets/0ce5899c-d805-4241-87df-4849851b1d71" />
 
 # Tech Stack
